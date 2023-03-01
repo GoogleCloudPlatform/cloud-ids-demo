@@ -1,3 +1,8 @@
+##  This is not an officially supported Google product ##
+##  This code creates PoC demo environment for Cloud IDS ##
+##  This demo code is not built for production workload ##
+
+
 # Demo Guide
 This demo uses terraform to setup Cloud IDS in a project and two compute instance to simulate network threats detected by Cloud IDS using Google Cloud Services like [Cloud IDS](https://cloud.google.com/ids), [Cloud Compute Engine](https://cloud.google.com/compute) and [Cloud Logging](https://cloud.google.com/logging).
 
