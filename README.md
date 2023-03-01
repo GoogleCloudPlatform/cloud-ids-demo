@@ -1,7 +1,6 @@
 ```
-This is not an officially supported Google product 
-This code creates PoC demo environment for Cloud IDS 
-This demo code is not built for production workload 
+This is not an officially supported Google product.
+This code creates PoC demo environment for Cloud IDS. This demo code is not built for production workload. 
 ```
 
 
